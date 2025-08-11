@@ -32,3 +32,17 @@ The dataset `StudentPerformanceFactors.csv` contains columns such as:
    ```bash
    git clone https://github.com/yourusername/student-score-prediction.git
    cd student-score-prediction
+   
+2. Install dependencies:
+   
+   pip install -r requirements.txt
+
+3.Run the Jupyter Notebook:
+
+   jupyter notebook "Student Score Prediction.ipynb"
+
+
+
+
+   
+
